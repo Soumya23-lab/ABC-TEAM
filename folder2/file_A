@@ -19,3 +19,12 @@ int main() {
       printf("After swapping, secondNumber = %.2lf", second);
       return 0;
 }
+
+
+output:
+
+Enter first number: 1.20
+Enter second number: 2.45
+
+After swapping, firstNumber = 2.45
+After swapping, secondNumber = 1.20
